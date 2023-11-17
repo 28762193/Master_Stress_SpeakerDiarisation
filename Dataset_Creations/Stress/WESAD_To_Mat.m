@@ -2,7 +2,7 @@
 % A python script is used to convert the pickle (.pkl) file to a .csv file
 % - only the required signals were extracted. The python script can be
 % found in: 
-% /main.py
+% /WESAD_PKL_To_CSV.py
 % It is self written and makes use of pandas, numpy, and glob.
 
 fileLoc = '/Datasets/WESAD/MAT_Files/';
